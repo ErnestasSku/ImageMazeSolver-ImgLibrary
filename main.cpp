@@ -1,8 +1,8 @@
-#include<iostream>
-#include<fstream>
-#include<cstring>
-#include<stdio.h>
-#include<assert.h>
+#include <iostream>
+#include <fstream>
+#include <cstring>
+#include <stdio.h>
+#include <assert.h>
 #include "photo.h"
 
 int main()
