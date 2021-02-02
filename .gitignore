@@ -1,0 +1,9 @@
+#some local files used which are uneccesary
+img1
+imgFileFormat
+bigimage
+*.out
+
+#All images as atm they are used only for debuging purpose
+*.png
+*.vscode
